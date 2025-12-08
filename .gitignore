@@ -1,0 +1,6 @@
+ # Ignora arquivos de logs e temp
+  commits.txt
+  *.log
+  temp/
+  node_modules/  # se usar Node.js no futuro
+  .env  # arquivos de config sensíveis
