@@ -1,14 +1,16 @@
-Projeto para treinar conflito
+# Projeto Conflito Git
 
-Alteração LOCAL: limite 30
+## 📖 Sobre
+Repositório de prática de Git e GitHub, focado em resolver conflitos, reverts, resets e workflows básicos. Usado pra treinar controle de versão.
 
-Alteração LOCAL: limite 50
-Alteração REMOTA: limite 50
-Alteração REMOTA: limite 40
+## 🛠️ Tecnologias
+- Git
+- GitHub
+- Markdown (pra documentação)
 
-Mudança remota do time
-   
-Linha de teste para amend
-Mais uma linha pro amend
+## 👥 Time
+- Thiago Frasão (desenvolvedor principal)
 
-Mudança local minha
+## Como usar
+1. Clone o repo: `git clone https://github.com/thiagofrasao/projeto-conflito.git`
+2. Pratique comandos Git no branch main.
